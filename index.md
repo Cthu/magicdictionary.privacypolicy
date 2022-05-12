@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+This Privacy Policy governs the manner in which Comquas collects, uses, maintains and discloses information collected from users (each, a "User") of the Comquas products. This privacy policy applies to the Site and all products and services offered by Comquas.
 
-You can use the [editor on GitHub](https://github.com/Cthu/magicdictionary.privacypolicy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Personal identification information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-### Markdown
+Non-personal identification information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-```markdown
-Syntax highlighted code block
+Web browser cookies
 
-# Header 1
-## Header 2
-### Header 3
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-- Bulleted
-- List
+How we use collected information
 
-1. Numbered
-2. List
+Comquas may collect and use Users personal information for the following purposes:
+- To improve customer service
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+- To personalize user experience
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+How we protect your information
 
-**Bold** and _Italic_ and `Code` text
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-[Link](url) and ![Image](src)
-```
+Sharing your personal information
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-### Jekyll Themes
+Google Adsense
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cthu/magicdictionary.privacypolicy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
-### Support or Contact
+Account Kit
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We are using account ki that own by facebook. It use for the login with phone number. We didn't use phone number for business purposes or other misleading data usages. Please read detail at Facebook Privacy.
+
+Changes to this privacy policy
+
+Comquas has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+Comquas
+http://www.comquas.com
+support@comquas.com
+
+This document was last updated on November 20, 2013
